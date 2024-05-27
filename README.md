@@ -1,5 +1,7 @@
 # Simple Ecommerce Website
 
+Simple CRUD Application with session-based authentication.
+
 ### Links
 
 - Live Site URL: https://simpleecomkittens.000webhostapp.com/
