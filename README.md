@@ -10,6 +10,11 @@
 - CSS - Flexbox
 - HTML
 
+### Tools
+
+- ChatGPT
+- VSCode
+
 ### Screenshot
 
 <img width="1046" alt="image" src="https://github.com/bavgg/simplekittens/assets/46017507/2d85abb4-2244-4e6e-961f-ee3932042b53">
