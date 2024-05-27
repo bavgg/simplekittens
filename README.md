@@ -14,6 +14,7 @@
 
 - ChatGPT
 - VSCode
+- Adobe Firefly
 
 ### Screenshot
 
